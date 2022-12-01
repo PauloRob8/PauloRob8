@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @PauloRob8
+# 👋 Hi there, I’m Paulo Roberto
+
 - 👀 I’m interested in Flutter and mobile development
 - 🌱 I’m currently learning Flutter Kotlin and Swift
 - 💞️ I’m looking to collaborate on open sourcers projects
